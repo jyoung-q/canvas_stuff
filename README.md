@@ -8,3 +8,17 @@ Full URL Example:
 ```
 https://cdn.jsdelivr.net/gh/jyoung-q/canvas_stuff@main/poeFullMultibot.svg
 ```
+
+
+<details>
+  <summary>hi</summary>
+  # hello
+  hi
+</details>
+
+<div>
+  # hi
+
+  # hello
+  
+</div>
